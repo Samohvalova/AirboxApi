@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.API\\Airbox.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.API\\Airbox.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.API\\Airbox.API.csproj",
+        "projectName": "Airbox.API",
+        "projectPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.API\\Airbox.API.csproj",
+        "packagesPath": "C:\\Users\\AllaS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AllaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj": {
+                "projectPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj"
+              },
+              "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Infrastructure\\Airbox.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Infrastructure\\Airbox.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[12.3.1, )"
+            },
+            "System.Device.Location.Portable": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj",
+        "projectName": "Airbox.Domain",
+        "projectPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj",
+        "packagesPath": "C:\\Users\\AllaS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AllaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Infrastructure\\Airbox.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Infrastructure\\Airbox.Infrastructure.csproj",
+        "projectName": "Airbox.Infrastructure",
+        "projectPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Infrastructure\\Airbox.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\AllaS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AllaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj": {
+                "projectPath": "C:\\Users\\AllaS\\Desktop\\Airbox.API\\Airbox.Domain\\Airbox.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

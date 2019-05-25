@@ -1,0 +1,17 @@
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.API.deps.json
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.API.runtimeconfig.json
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.API.runtimeconfig.dev.json
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.API.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.API.pdb
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.Domain.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.Infrastructure.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.Domain.pdb
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\bin\Release\netcoreapp2.0\Airbox.Infrastructure.pdb
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.csprojAssemblyReference.cache
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.csproj.CoreCompileInputs.cache
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.AssemblyInfoInputs.cache
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.AssemblyInfo.cs
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.csproj.CopyComplete
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.API\obj\Release\netcoreapp2.0\Airbox.API.pdb

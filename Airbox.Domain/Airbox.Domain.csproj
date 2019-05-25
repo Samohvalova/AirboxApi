@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Device.Portable">
+      <HintPath>..\..\..\..\.nuget\packages\system.device.location.portable\1.0.0\lib\System.Device.Portable.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

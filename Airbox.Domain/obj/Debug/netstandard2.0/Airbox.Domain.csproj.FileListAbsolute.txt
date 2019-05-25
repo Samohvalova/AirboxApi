@@ -1,0 +1,16 @@
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\bin\Debug\netstandard2.0\Airbox.Domain.deps.json
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\bin\Debug\netstandard2.0\Airbox.Domain.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\bin\Debug\netstandard2.0\Airbox.Domain.pdb
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\bin\Debug\netstandard2.0\System.Device.Portable.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.AssemblyInfoInputs.cache
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.AssemblyInfo.cs
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.csproj.CopyComplete
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.dll
+C:\Users\alla.samohvalova\Desktop\My\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.pdb
+C:\Users\AllaS\Desktop\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.csprojAssemblyReference.cache
+C:\Users\AllaS\Desktop\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AllaS\Desktop\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.AssemblyInfoInputs.cache
+C:\Users\AllaS\Desktop\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.AssemblyInfo.cs
+C:\Users\AllaS\Desktop\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.dll
+C:\Users\AllaS\Desktop\Airbox.API\Airbox.Domain\obj\Debug\netstandard2.0\Airbox.Domain.pdb
